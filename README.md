@@ -1,4 +1,4 @@
-﻿MS Launcher
+﻿MineCraft Launcher
 =====================
 
 Лаунчер игры minecraft.
