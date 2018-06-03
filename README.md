@@ -1,11 +1,9 @@
 ﻿MineCraft Launcher
 =====================
 
-Лаунчер игры minecraft.
+I programmed this when I was a beginner
 
-Исходники не смотрите, глаза вытекут. Будет время - переделаю.
-
-Пока что не работает с Forge.
+Compare this with the new version https://github.com/AGhostik/MCLauncher 
 
 Download / Скачать
 ------------
